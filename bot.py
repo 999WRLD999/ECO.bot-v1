@@ -752,4 +752,4 @@ async def start(ctx):
         json.dump(mineraljson, f, indent=4)
     with open('usercash.json', 'w') as f:
         json.dump(usercashjson, f, indent=4)
-bot.run('ODE5ODA3NDUzMDAzNjQ0OTM4.YEr_MA.LUkEjizVbf8e1TSRDBZ2OTdcJLo')
+bot.run('urbottokenhere')
